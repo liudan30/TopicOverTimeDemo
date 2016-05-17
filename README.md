@@ -7,6 +7,8 @@ Run: python backend.py
 
 Front-End: HTML & CSS & Javascript
 
-Back-end: Python & Java
+Back-end: Python & Java(MALLET)
 
 Framework: FLASK
+
+

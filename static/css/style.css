@@ -1,0 +1,14 @@
+body{
+  background: #e7e7e7;
+  font-family: Arial, Helvetica, Sans-serif;
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+}
+
+#container {
+  margin: 20px;
+  width: 400px;
+  height: 8px;
+}
+
